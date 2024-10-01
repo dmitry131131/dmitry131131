@@ -4,6 +4,11 @@
 
 <h3 align="left">About me:</h3>
 
+Student of radio engineering and computer technology faculty of MIPT
+Applied Mathematics and Physics track
+
+C/C++ opensource developer of low-level systems
+
 <!---Для компактной версии-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dmitry131131&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
